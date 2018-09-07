@@ -1,4 +1,4 @@
-# Projeto-de-Software
+# Caronas UFG
 Projeto de Software - Grupo 08 - Semestre 2018/2 - Turma A - Professor Msc Gilmar
 Gustavo Henrique Rodrigues Santos Silva
 José da Costa Nunes Neto	
